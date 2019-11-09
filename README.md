@@ -1,2 +1,2 @@
 # git-utils
-git utilities
+some utilities for git
